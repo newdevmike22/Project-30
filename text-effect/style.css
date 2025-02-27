@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubot+Sans:ital,wght@0,200..900;1,200..900&display=swap");
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  background: gold;
+  font-family: "Hubot Sans", sans-serif;
+}
+
+.container {
+  h1 {
+    font-size: 2.5rem;
+    font-weight: 900;
+  }
+}
